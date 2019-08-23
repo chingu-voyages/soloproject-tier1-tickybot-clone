@@ -17,7 +17,7 @@ To see the ZenHub tab on this GitHub repo webpage requires that you install ZenH
 
 If you would like to add these tasks to your repo so you can track the progress of your Solo Project and so they will be more readily available for reference, you will need to manually add new issues to your ZenHub board and copy/paste the text in our issues to yours.
 
-### Cloning
+### Cloning A Website
 
 Cloning means to create a web page with a layout as identical as possible to the template. Fonts, colors, and images are not important. The layout of the web page on the other hand should be the same. A suggestion would be to compare the way the template looks face to face to the clone.
 

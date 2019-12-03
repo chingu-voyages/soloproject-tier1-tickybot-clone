@@ -93,7 +93,3 @@ slack.com page.
 - [ ] Use Accessibility techniques (see 
 [The A11Y Project](https://a11yproject.com/)) to improve your site for users 
 with impairments 
-- [ ] Add a `CONTRIBUTING.md` file with instructions on how to contribute to
-your project
-- [ ] Implement service workers to improve performance by relying on cached data
-

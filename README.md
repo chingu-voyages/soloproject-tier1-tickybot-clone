@@ -1,6 +1,6 @@
 # Chingu Solo Project - Tier 1 - Tickybot Clone
 
-![TickyBot Page](Screen Shot 2022-10-22 at 8.00.01 AM.png)
+![TickyBot Page](https://github.com/chingu-voyages/soloproject-tier1-tickybot-clone/blob/master/Screen%20Shot%202022-10-22%20at%208.00.01%20AM.png)
 
 ## Overview
 This project provides you with great practice for making a modern looking 

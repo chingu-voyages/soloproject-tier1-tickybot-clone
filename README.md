@@ -1,6 +1,6 @@
 # Chingu Solo Project - Tier 1 - Tickybot Clone
 
-![TickyBot Page](https://dzwonsemrish7.cloudfront.net/items/0m0c071w3T3H2w0g2714/Image%202019-08-23%20at%2010.24.47%20PM.png)
+![TickyBot Page](Screen Shot 2022-10-22 at 8.00.01 AM.png)
 
 ## Overview
 This project provides you with great practice for making a modern looking 

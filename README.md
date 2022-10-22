@@ -64,7 +64,7 @@ the components that make it up.
       - [ ] Footer
       
 - [ ] Write the HTML for the rest of the page and the contents of each section.
-- [ ] Create your JavaScript
+- [ ] Create your JavaScript to implement a smooth scroll to top button (see Functionality below).
 
 *Style*
 - Create your CSS

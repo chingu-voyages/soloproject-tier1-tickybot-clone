@@ -37,9 +37,6 @@ frameworks or libraries such as Bootstrap.
 
 > You may **NOT** use frameworks or libraries such as Bootstrap.
 
-General instructions for all Pre-Work Projects can also be found in the [Chingu
-Library](https://voyage.docs.chingu.io/prework/howwork).
-
 ### Cloning A Website
 
 Cloning means to create a web page with a layout as identical as possible to 
@@ -54,7 +51,7 @@ with something of your own for that space.
 ### Requirements
 
 *Structure*
-- [ ] Explore the [TickyBot page](https://tickybott.herokuapp.com) and identify
+- [ ] Explore the [TickyBot page](https://maknetaro.github.io/tickyBot/?ref=https://githubhelp.com) and identify
 the components that make it up.
 - Create your HTML with a container for each section. for instance:
 

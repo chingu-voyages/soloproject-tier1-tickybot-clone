@@ -4,7 +4,7 @@
 
 ## Overview
 This project provides you with great practice for making a modern looking 
-webpage by cloning the [TickyBot Page](https://tickybott.herokuapp.com/](https://maknetaro.github.io/tickyBot/?ref=https://githubhelp.com) 
+webpage by cloning the [TickyBot Page](https://maknetaro.github.io/tickyBot/?ref=https://githubhelp.com) 
 using **HTML/CSS** and **JavaScript**.
 
 When you are done, you will be ready to take on your own projects creating 
